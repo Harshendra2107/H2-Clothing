@@ -8,13 +8,13 @@ A stylish and responsive web application for browsing and purchasing clothing it
 - Product listing with images, prices, and descriptions
 - Shopping cart functionality
 - User-friendly navigation and layout
+- Front end web page
 
 ## Technologies Used
 
 - HTML
 - CSS (or SCSS if used)
 - JavaScript (or frameworks/libraries if applicable)
-- [Any other tech you used, e.g., React, Node.js, Firebase]
 
 ## Installation / Setup
 
