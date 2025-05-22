@@ -1,5 +1,5 @@
 # H2 Clothing
-
+To visit the page- https://harshendra2107.github.io/H2-Clothing/
 A stylish and responsive web application for browsing and purchasing clothing items.
 
 ## Features
